@@ -1,0 +1,11 @@
+body {
+  background-color: pink;
+}
+
+img {
+  height: 200px;
+  background-color: lightgreen;
+  padding: 20px;
+  border: 10px lightblue dashed;
+  margin: 20px;
+}
